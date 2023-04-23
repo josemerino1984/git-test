@@ -1,1 +1,1 @@
-print("hello reset")
+print("hello new")
