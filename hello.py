@@ -1,2 +1,2 @@
 print("update main")
-print("local")
+print("github")
